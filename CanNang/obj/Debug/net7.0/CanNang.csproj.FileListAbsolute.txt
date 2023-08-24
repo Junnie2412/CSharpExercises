@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\CanNang\bin\Debug\net7.0\CanNang.exe
+F:\C#\Fork\HoangDung\CanNang\bin\Debug\net7.0\CanNang.deps.json
+F:\C#\Fork\HoangDung\CanNang\bin\Debug\net7.0\CanNang.runtimeconfig.json
+F:\C#\Fork\HoangDung\CanNang\bin\Debug\net7.0\CanNang.dll
+F:\C#\Fork\HoangDung\CanNang\bin\Debug\net7.0\CanNang.pdb
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\CanNang.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\CanNang.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\CanNang.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\CanNang.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\CanNang.dll
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\refint\CanNang.dll
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\CanNang.pdb
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\CanNang.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\CanNang\obj\Debug\net7.0\ref\CanNang.dll
