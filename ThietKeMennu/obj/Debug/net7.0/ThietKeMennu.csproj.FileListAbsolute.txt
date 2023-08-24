@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\ThietKeMennu\bin\Debug\net7.0\ThietKeMennu.exe
+F:\C#\Fork\HoangDung\ThietKeMennu\bin\Debug\net7.0\ThietKeMennu.deps.json
+F:\C#\Fork\HoangDung\ThietKeMennu\bin\Debug\net7.0\ThietKeMennu.runtimeconfig.json
+F:\C#\Fork\HoangDung\ThietKeMennu\bin\Debug\net7.0\ThietKeMennu.dll
+F:\C#\Fork\HoangDung\ThietKeMennu\bin\Debug\net7.0\ThietKeMennu.pdb
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\ThietKeMennu.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\ThietKeMennu.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\ThietKeMennu.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\ThietKeMennu.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\ThietKeMennu.dll
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\refint\ThietKeMennu.dll
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\ThietKeMennu.pdb
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\ThietKeMennu.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\ThietKeMennu\obj\Debug\net7.0\ref\ThietKeMennu.dll
