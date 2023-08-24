@@ -1,0 +1,14 @@
+F:\Fork\HoangDung\ToanTu\bin\Debug\net7.0\ToanTu.exe
+F:\Fork\HoangDung\ToanTu\bin\Debug\net7.0\ToanTu.deps.json
+F:\Fork\HoangDung\ToanTu\bin\Debug\net7.0\ToanTu.runtimeconfig.json
+F:\Fork\HoangDung\ToanTu\bin\Debug\net7.0\ToanTu.dll
+F:\Fork\HoangDung\ToanTu\bin\Debug\net7.0\ToanTu.pdb
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\ToanTu.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\ToanTu.AssemblyInfoInputs.cache
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\ToanTu.AssemblyInfo.cs
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\ToanTu.csproj.CoreCompileInputs.cache
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\ToanTu.dll
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\refint\ToanTu.dll
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\ToanTu.pdb
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\ToanTu.genruntimeconfig.cache
+F:\Fork\HoangDung\ToanTu\obj\Debug\net7.0\ref\ToanTu.dll
