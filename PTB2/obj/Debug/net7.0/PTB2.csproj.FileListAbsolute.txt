@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\PTB2\bin\Debug\net7.0\PTB2.exe
+F:\C#\Fork\HoangDung\PTB2\bin\Debug\net7.0\PTB2.deps.json
+F:\C#\Fork\HoangDung\PTB2\bin\Debug\net7.0\PTB2.runtimeconfig.json
+F:\C#\Fork\HoangDung\PTB2\bin\Debug\net7.0\PTB2.dll
+F:\C#\Fork\HoangDung\PTB2\bin\Debug\net7.0\PTB2.pdb
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\PTB2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\PTB2.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\PTB2.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\PTB2.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\PTB2.dll
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\refint\PTB2.dll
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\PTB2.pdb
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\PTB2.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\PTB2\obj\Debug\net7.0\ref\PTB2.dll
