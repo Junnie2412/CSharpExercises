@@ -1,0 +1,14 @@
+F:\Fork\HoangDung\HienThiThoiGian\bin\Debug\net7.0\HienThiThoiGian.exe
+F:\Fork\HoangDung\HienThiThoiGian\bin\Debug\net7.0\HienThiThoiGian.deps.json
+F:\Fork\HoangDung\HienThiThoiGian\bin\Debug\net7.0\HienThiThoiGian.runtimeconfig.json
+F:\Fork\HoangDung\HienThiThoiGian\bin\Debug\net7.0\HienThiThoiGian.dll
+F:\Fork\HoangDung\HienThiThoiGian\bin\Debug\net7.0\HienThiThoiGian.pdb
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\HienThiThoiGian.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\HienThiThoiGian.AssemblyInfoInputs.cache
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\HienThiThoiGian.AssemblyInfo.cs
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\HienThiThoiGian.csproj.CoreCompileInputs.cache
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\HienThiThoiGian.dll
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\refint\HienThiThoiGian.dll
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\HienThiThoiGian.pdb
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\HienThiThoiGian.genruntimeconfig.cache
+F:\Fork\HoangDung\HienThiThoiGian\obj\Debug\net7.0\ref\HienThiThoiGian.dll
