@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\bin\Debug\net7.0\TimGiaTriTrongMang.exe
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\bin\Debug\net7.0\TimGiaTriTrongMang.deps.json
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\bin\Debug\net7.0\TimGiaTriTrongMang.runtimeconfig.json
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\bin\Debug\net7.0\TimGiaTriTrongMang.dll
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\bin\Debug\net7.0\TimGiaTriTrongMang.pdb
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\TimGiaTriTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\TimGiaTriTrongMang.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\TimGiaTriTrongMang.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\TimGiaTriTrongMang.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\TimGiaTriTrongMang.dll
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\refint\TimGiaTriTrongMang.dll
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\TimGiaTriTrongMang.pdb
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\TimGiaTriTrongMang.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\TimGiaTriTrongMang\obj\Debug\net7.0\ref\TimGiaTriTrongMang.dll
