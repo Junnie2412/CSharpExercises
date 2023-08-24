@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\Doc3ChuSo\bin\Debug\net7.0\Doc3ChuSo.exe
+F:\C#\Fork\HoangDung\Doc3ChuSo\bin\Debug\net7.0\Doc3ChuSo.deps.json
+F:\C#\Fork\HoangDung\Doc3ChuSo\bin\Debug\net7.0\Doc3ChuSo.runtimeconfig.json
+F:\C#\Fork\HoangDung\Doc3ChuSo\bin\Debug\net7.0\Doc3ChuSo.dll
+F:\C#\Fork\HoangDung\Doc3ChuSo\bin\Debug\net7.0\Doc3ChuSo.pdb
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\Doc3ChuSo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\Doc3ChuSo.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\Doc3ChuSo.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\Doc3ChuSo.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\Doc3ChuSo.dll
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\refint\Doc3ChuSo.dll
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\Doc3ChuSo.pdb
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\Doc3ChuSo.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\Doc3ChuSo\obj\Debug\net7.0\ref\Doc3ChuSo.dll
