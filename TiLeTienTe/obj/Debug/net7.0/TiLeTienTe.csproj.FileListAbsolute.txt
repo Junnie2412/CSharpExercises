@@ -1,0 +1,14 @@
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\bin\Debug\net7.0\TiLeTienTe.exe
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\bin\Debug\net7.0\TiLeTienTe.deps.json
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\bin\Debug\net7.0\TiLeTienTe.runtimeconfig.json
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\bin\Debug\net7.0\TiLeTienTe.dll
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\bin\Debug\net7.0\TiLeTienTe.pdb
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\TiLeTienTe.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\TiLeTienTe.AssemblyInfoInputs.cache
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\TiLeTienTe.AssemblyInfo.cs
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\TiLeTienTe.csproj.CoreCompileInputs.cache
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\TiLeTienTe.dll
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\refint\TiLeTienTe.dll
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\TiLeTienTe.pdb
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\TiLeTienTe.genruntimeconfig.cache
+F:\Fork\NguyenLeHoangDung\TiLeTienTe\obj\Debug\net7.0\ref\TiLeTienTe.dll
