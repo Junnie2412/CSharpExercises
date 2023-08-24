@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\bin\Debug\net7.0\KiemTraSoNguyenTo.exe
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\bin\Debug\net7.0\KiemTraSoNguyenTo.deps.json
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\bin\Debug\net7.0\KiemTraSoNguyenTo.runtimeconfig.json
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\bin\Debug\net7.0\KiemTraSoNguyenTo.dll
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\bin\Debug\net7.0\KiemTraSoNguyenTo.pdb
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\KiemTraSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\KiemTraSoNguyenTo.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\KiemTraSoNguyenTo.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\KiemTraSoNguyenTo.dll
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\refint\KiemTraSoNguyenTo.dll
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\KiemTraSoNguyenTo.pdb
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\KiemTraSoNguyenTo.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\KiemTraSoNguyenTo\obj\Debug\net7.0\ref\KiemTraSoNguyenTo.dll
