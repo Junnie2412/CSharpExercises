@@ -1,0 +1,14 @@
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.exe
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.deps.json
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.runtimeconfig.json
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.dll
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.pdb
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.AssemblyInfoInputs.cache
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.AssemblyInfo.cs
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.csproj.CoreCompileInputs.cache
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.dll
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\refint\HienThiLoiChao.dll
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.pdb
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.genruntimeconfig.cache
+F:\Fork\NguyenLeHoangDung\HienThiLoiChao\obj\Debug\net7.0\ref\HienThiLoiChao.dll
