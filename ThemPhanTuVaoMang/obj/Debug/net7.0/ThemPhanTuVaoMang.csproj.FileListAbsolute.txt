@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\bin\Debug\net7.0\ThemPhanTuVaoMang.exe
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\bin\Debug\net7.0\ThemPhanTuVaoMang.deps.json
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\bin\Debug\net7.0\ThemPhanTuVaoMang.runtimeconfig.json
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\bin\Debug\net7.0\ThemPhanTuVaoMang.dll
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\bin\Debug\net7.0\ThemPhanTuVaoMang.pdb
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\ThemPhanTuVaoMang.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\ThemPhanTuVaoMang.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\ThemPhanTuVaoMang.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\ThemPhanTuVaoMang.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\ThemPhanTuVaoMang.dll
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\refint\ThemPhanTuVaoMang.dll
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\ThemPhanTuVaoMang.pdb
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\ThemPhanTuVaoMang.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\ThemPhanTuVaoMang\obj\Debug\net7.0\ref\ThemPhanTuVaoMang.dll
