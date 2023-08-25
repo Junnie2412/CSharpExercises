@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\bin\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.exe
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\bin\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.deps.json
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\bin\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.runtimeconfig.json
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\bin\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.dll
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\bin\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.pdb
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.dll
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\refint\TimPhanTuMaxTrongMangHaiChieu.dll
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.pdb
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\TimPhanTuMaxTrongMangHaiChieu.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\TimPhanTuMaxTrongMangHaiChieu\obj\Debug\net7.0\ref\TimPhanTuMaxTrongMangHaiChieu.dll
