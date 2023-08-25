@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\MineSweeper\bin\Debug\net7.0\MineSweeper.exe
+F:\C#\Fork\HoangDung\MineSweeper\bin\Debug\net7.0\MineSweeper.deps.json
+F:\C#\Fork\HoangDung\MineSweeper\bin\Debug\net7.0\MineSweeper.runtimeconfig.json
+F:\C#\Fork\HoangDung\MineSweeper\bin\Debug\net7.0\MineSweeper.dll
+F:\C#\Fork\HoangDung\MineSweeper\bin\Debug\net7.0\MineSweeper.pdb
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\MineSweeper.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\MineSweeper.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\MineSweeper.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\MineSweeper.dll
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\refint\MineSweeper.dll
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\MineSweeper.pdb
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\MineSweeper.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\MineSweeper\obj\Debug\net7.0\ref\MineSweeper.dll
