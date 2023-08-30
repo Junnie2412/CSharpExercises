@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\bin\Debug\net7.0\ChuyenDoiNhietDo.exe
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\bin\Debug\net7.0\ChuyenDoiNhietDo.deps.json
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\bin\Debug\net7.0\ChuyenDoiNhietDo.runtimeconfig.json
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\bin\Debug\net7.0\ChuyenDoiNhietDo.dll
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\bin\Debug\net7.0\ChuyenDoiNhietDo.pdb
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\ChuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\ChuyenDoiNhietDo.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\ChuyenDoiNhietDo.dll
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\refint\ChuyenDoiNhietDo.dll
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\ChuyenDoiNhietDo.pdb
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\ChuyenDoiNhietDo.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\ChuyenDoiNhietDo\obj\Debug\net7.0\ref\ChuyenDoiNhietDo.dll
