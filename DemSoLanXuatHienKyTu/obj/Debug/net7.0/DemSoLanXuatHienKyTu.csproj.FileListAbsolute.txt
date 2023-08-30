@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\bin\Debug\net7.0\DemSoLanXuatHienKyTu.exe
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\bin\Debug\net7.0\DemSoLanXuatHienKyTu.deps.json
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\bin\Debug\net7.0\DemSoLanXuatHienKyTu.runtimeconfig.json
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\bin\Debug\net7.0\DemSoLanXuatHienKyTu.dll
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\bin\Debug\net7.0\DemSoLanXuatHienKyTu.pdb
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\DemSoLanXuatHienKyTu.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\DemSoLanXuatHienKyTu.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\DemSoLanXuatHienKyTu.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\DemSoLanXuatHienKyTu.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\DemSoLanXuatHienKyTu.dll
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\refint\DemSoLanXuatHienKyTu.dll
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\DemSoLanXuatHienKyTu.pdb
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\DemSoLanXuatHienKyTu.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\DemSoLanXuatHienKyTu\obj\Debug\net7.0\ref\DemSoLanXuatHienKyTu.dll
