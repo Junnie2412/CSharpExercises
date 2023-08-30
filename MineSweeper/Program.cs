@@ -45,6 +45,8 @@ class MineSweeper
             }
         }
 
+        Console.WriteLine();
+
         for (int i = 0; i < a; i++)
         {
             for (int k = 0; k < b; k++)
