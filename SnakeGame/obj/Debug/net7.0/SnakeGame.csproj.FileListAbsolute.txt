@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\SnakeGame\bin\Debug\net7.0\SnakeGame.exe
+F:\C#\Fork\HoangDung\SnakeGame\bin\Debug\net7.0\SnakeGame.deps.json
+F:\C#\Fork\HoangDung\SnakeGame\bin\Debug\net7.0\SnakeGame.runtimeconfig.json
+F:\C#\Fork\HoangDung\SnakeGame\bin\Debug\net7.0\SnakeGame.dll
+F:\C#\Fork\HoangDung\SnakeGame\bin\Debug\net7.0\SnakeGame.pdb
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\SnakeGame.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\SnakeGame.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\SnakeGame.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\SnakeGame.dll
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\refint\SnakeGame.dll
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\SnakeGame.pdb
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\SnakeGame.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\SnakeGame\obj\Debug\net7.0\ref\SnakeGame.dll
