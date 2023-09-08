@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\LopHinhChuNhat\bin\Debug\net7.0\LopHinhChuNhat.exe
+F:\C#\Fork\HoangDung\LopHinhChuNhat\bin\Debug\net7.0\LopHinhChuNhat.deps.json
+F:\C#\Fork\HoangDung\LopHinhChuNhat\bin\Debug\net7.0\LopHinhChuNhat.runtimeconfig.json
+F:\C#\Fork\HoangDung\LopHinhChuNhat\bin\Debug\net7.0\LopHinhChuNhat.dll
+F:\C#\Fork\HoangDung\LopHinhChuNhat\bin\Debug\net7.0\LopHinhChuNhat.pdb
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\LopHinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\LopHinhChuNhat.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\LopHinhChuNhat.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\LopHinhChuNhat.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\LopHinhChuNhat.dll
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\refint\LopHinhChuNhat.dll
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\LopHinhChuNhat.pdb
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\LopHinhChuNhat.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\LopHinhChuNhat\obj\Debug\net7.0\ref\LopHinhChuNhat.dll
