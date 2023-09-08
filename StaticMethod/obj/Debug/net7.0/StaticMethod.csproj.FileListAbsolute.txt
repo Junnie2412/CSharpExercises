@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\StaticMethod\bin\Debug\net7.0\StaticMethod.exe
+F:\C#\Fork\HoangDung\StaticMethod\bin\Debug\net7.0\StaticMethod.deps.json
+F:\C#\Fork\HoangDung\StaticMethod\bin\Debug\net7.0\StaticMethod.runtimeconfig.json
+F:\C#\Fork\HoangDung\StaticMethod\bin\Debug\net7.0\StaticMethod.dll
+F:\C#\Fork\HoangDung\StaticMethod\bin\Debug\net7.0\StaticMethod.pdb
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\StaticMethod.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\StaticMethod.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\StaticMethod.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\StaticMethod.dll
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\refint\StaticMethod.dll
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\StaticMethod.pdb
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\StaticMethod.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\StaticMethod\obj\Debug\net7.0\ref\StaticMethod.dll
