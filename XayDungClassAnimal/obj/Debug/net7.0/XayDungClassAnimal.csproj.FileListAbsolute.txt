@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\XayDungClassAnimal\bin\Debug\net7.0\XayDungClassAnimal.exe
+F:\C#\Fork\HoangDung\XayDungClassAnimal\bin\Debug\net7.0\XayDungClassAnimal.deps.json
+F:\C#\Fork\HoangDung\XayDungClassAnimal\bin\Debug\net7.0\XayDungClassAnimal.runtimeconfig.json
+F:\C#\Fork\HoangDung\XayDungClassAnimal\bin\Debug\net7.0\XayDungClassAnimal.dll
+F:\C#\Fork\HoangDung\XayDungClassAnimal\bin\Debug\net7.0\XayDungClassAnimal.pdb
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\XayDungClassAnimal.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\XayDungClassAnimal.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\XayDungClassAnimal.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\XayDungClassAnimal.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\XayDungClassAnimal.dll
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\refint\XayDungClassAnimal.dll
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\XayDungClassAnimal.pdb
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\XayDungClassAnimal.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\XayDungClassAnimal\obj\Debug\net7.0\ref\XayDungClassAnimal.dll
