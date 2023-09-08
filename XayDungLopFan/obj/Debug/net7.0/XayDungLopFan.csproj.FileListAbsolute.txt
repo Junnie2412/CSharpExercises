@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\XayDungLopFan\bin\Debug\net7.0\XayDungLopFan.exe
+F:\C#\Fork\HoangDung\XayDungLopFan\bin\Debug\net7.0\XayDungLopFan.deps.json
+F:\C#\Fork\HoangDung\XayDungLopFan\bin\Debug\net7.0\XayDungLopFan.runtimeconfig.json
+F:\C#\Fork\HoangDung\XayDungLopFan\bin\Debug\net7.0\XayDungLopFan.dll
+F:\C#\Fork\HoangDung\XayDungLopFan\bin\Debug\net7.0\XayDungLopFan.pdb
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\XayDungLopFan.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\XayDungLopFan.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\XayDungLopFan.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\XayDungLopFan.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\XayDungLopFan.dll
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\refint\XayDungLopFan.dll
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\XayDungLopFan.pdb
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\XayDungLopFan.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\XayDungLopFan\obj\Debug\net7.0\ref\XayDungLopFan.dll
