@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\bin\Debug\net7.0\LopPoint2D+Point3D.exe
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\bin\Debug\net7.0\LopPoint2D+Point3D.deps.json
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\bin\Debug\net7.0\LopPoint2D+Point3D.runtimeconfig.json
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\bin\Debug\net7.0\LopPoint2D+Point3D.dll
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\bin\Debug\net7.0\LopPoint2D+Point3D.pdb
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\LopPoint2D+Point3D.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\LopPoint2D+Point3D.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\LopPoint2D+Point3D.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\LopPoint2D+Point3D.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\LopPoint2D+Point3D.dll
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\refint\LopPoint2D+Point3D.dll
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\LopPoint2D+Point3D.pdb
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\LopPoint2D+Point3D.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\LopPoint2D+Point3D\obj\Debug\net7.0\ref\LopPoint2D+Point3D.dll
