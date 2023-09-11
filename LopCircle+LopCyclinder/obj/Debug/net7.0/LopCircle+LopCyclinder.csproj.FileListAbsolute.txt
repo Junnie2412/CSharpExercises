@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\bin\Debug\net7.0\LopCircle+LopCyclinder.exe
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\bin\Debug\net7.0\LopCircle+LopCyclinder.deps.json
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\bin\Debug\net7.0\LopCircle+LopCyclinder.runtimeconfig.json
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\bin\Debug\net7.0\LopCircle+LopCyclinder.dll
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\bin\Debug\net7.0\LopCircle+LopCyclinder.pdb
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\LopCircle+LopCyclinder.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\LopCircle+LopCyclinder.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\LopCircle+LopCyclinder.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\LopCircle+LopCyclinder.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\LopCircle+LopCyclinder.dll
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\refint\LopCircle+LopCyclinder.dll
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\LopCircle+LopCyclinder.pdb
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\LopCircle+LopCyclinder.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\LopCircle+LopCyclinder\obj\Debug\net7.0\ref\LopCircle+LopCyclinder.dll
