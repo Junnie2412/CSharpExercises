@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\IndexOutOfException\bin\Debug\net7.0\IndexOutOfException.exe
+F:\C#\Fork\HoangDung\IndexOutOfException\bin\Debug\net7.0\IndexOutOfException.deps.json
+F:\C#\Fork\HoangDung\IndexOutOfException\bin\Debug\net7.0\IndexOutOfException.runtimeconfig.json
+F:\C#\Fork\HoangDung\IndexOutOfException\bin\Debug\net7.0\IndexOutOfException.dll
+F:\C#\Fork\HoangDung\IndexOutOfException\bin\Debug\net7.0\IndexOutOfException.pdb
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\IndexOutOfException.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\IndexOutOfException.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\IndexOutOfException.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\IndexOutOfException.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\IndexOutOfException.dll
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\refint\IndexOutOfException.dll
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\IndexOutOfException.pdb
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\IndexOutOfException.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\IndexOutOfException\obj\Debug\net7.0\ref\IndexOutOfException.dll
