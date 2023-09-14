@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\bin\Debug\net7.0\Practice_Animal_Edible.exe
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\bin\Debug\net7.0\Practice_Animal_Edible.deps.json
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\bin\Debug\net7.0\Practice_Animal_Edible.runtimeconfig.json
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\bin\Debug\net7.0\Practice_Animal_Edible.dll
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\bin\Debug\net7.0\Practice_Animal_Edible.pdb
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\Practice_Animal_Edible.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\Practice_Animal_Edible.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\Practice_Animal_Edible.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\Practice_Animal_Edible.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\Practice_Animal_Edible.dll
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\refint\Practice_Animal_Edible.dll
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\Practice_Animal_Edible.pdb
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\Practice_Animal_Edible.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\Practice_Animal_Edible\obj\Debug\net7.0\ref\Practice_Animal_Edible.dll
