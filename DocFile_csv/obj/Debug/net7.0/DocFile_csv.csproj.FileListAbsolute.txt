@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\DocFile_csv\bin\Debug\net7.0\DocFile_csv.exe
+F:\C#\Fork\HoangDung\DocFile_csv\bin\Debug\net7.0\DocFile_csv.deps.json
+F:\C#\Fork\HoangDung\DocFile_csv\bin\Debug\net7.0\DocFile_csv.runtimeconfig.json
+F:\C#\Fork\HoangDung\DocFile_csv\bin\Debug\net7.0\DocFile_csv.dll
+F:\C#\Fork\HoangDung\DocFile_csv\bin\Debug\net7.0\DocFile_csv.pdb
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\DocFile_csv.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\DocFile_csv.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\DocFile_csv.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\DocFile_csv.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\DocFile_csv.dll
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\refint\DocFile_csv.dll
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\DocFile_csv.pdb
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\DocFile_csv.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\DocFile_csv\obj\Debug\net7.0\ref\DocFile_csv.dll
