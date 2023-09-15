@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\bin\Debug\net7.0\TinhTongCacSoTrongFileText.exe
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\bin\Debug\net7.0\TinhTongCacSoTrongFileText.deps.json
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\bin\Debug\net7.0\TinhTongCacSoTrongFileText.runtimeconfig.json
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\bin\Debug\net7.0\TinhTongCacSoTrongFileText.dll
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\bin\Debug\net7.0\TinhTongCacSoTrongFileText.pdb
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\TinhTongCacSoTrongFileText.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\TinhTongCacSoTrongFileText.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\TinhTongCacSoTrongFileText.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\TinhTongCacSoTrongFileText.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\TinhTongCacSoTrongFileText.dll
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\refint\TinhTongCacSoTrongFileText.dll
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\TinhTongCacSoTrongFileText.pdb
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\TinhTongCacSoTrongFileText.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\TinhTongCacSoTrongFileText\obj\Debug\net7.0\ref\TinhTongCacSoTrongFileText.dll
