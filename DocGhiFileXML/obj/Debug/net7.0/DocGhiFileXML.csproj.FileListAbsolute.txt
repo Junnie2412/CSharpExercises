@@ -1,0 +1,14 @@
+F:\C#\Fork\HoangDung\DocGhiFileXML\bin\Debug\net7.0\DocGhiFileXML.exe
+F:\C#\Fork\HoangDung\DocGhiFileXML\bin\Debug\net7.0\DocGhiFileXML.deps.json
+F:\C#\Fork\HoangDung\DocGhiFileXML\bin\Debug\net7.0\DocGhiFileXML.runtimeconfig.json
+F:\C#\Fork\HoangDung\DocGhiFileXML\bin\Debug\net7.0\DocGhiFileXML.dll
+F:\C#\Fork\HoangDung\DocGhiFileXML\bin\Debug\net7.0\DocGhiFileXML.pdb
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\DocGhiFileXML.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\DocGhiFileXML.AssemblyInfoInputs.cache
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\DocGhiFileXML.AssemblyInfo.cs
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\DocGhiFileXML.csproj.CoreCompileInputs.cache
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\DocGhiFileXML.dll
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\refint\DocGhiFileXML.dll
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\DocGhiFileXML.pdb
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\DocGhiFileXML.genruntimeconfig.cache
+F:\C#\Fork\HoangDung\DocGhiFileXML\obj\Debug\net7.0\ref\DocGhiFileXML.dll
